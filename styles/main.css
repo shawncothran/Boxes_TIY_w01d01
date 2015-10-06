@@ -1,0 +1,126 @@
+body {
+  width: 623px;
+}
+* {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Helvetica', sans-serif;
+}
+.navr {
+  background-color: #460207;
+  padding: 16px;
+}
+.topr {
+  background-color: #E61E16;
+  height: 385px;
+}
+.boxr {
+  background-color: #460207;
+  margin: 64px 10px 32px 10px;
+  border-bottom: 1px solid #c2c2c2;
+  height: 225px;
+}
+.boxrborder {
+  border-bottom: 2px solid #c2c2c2;
+}
+.blockr  {
+  height: 917px;
+  background-color: #1C0101;
+}
+.nestr  {
+  background-color: #930A0E;
+  padding: 140px 32px 70px 32px;
+}
+.nestregg  {
+  background-color: #D1706E;
+  height: 412px;
+}
+.footr  {
+background-color: #1C0101;
+height: 204px;
+}
+h3 {
+text-align: center;
+}
+.navb {
+  background-color: #243241;
+  padding: 16px;
+}
+.topb {
+  background-color: #217FCB;
+  height: 216px;
+  margin: 0px 0px 40px 0px;
+  padding: 100px 0px 0px 0px;
+}
+.topbnest {
+  height: 170px;
+  width: 310px;
+  margin: 0px auto;
+}
+.topbegga {
+  border: 3px solid #fff;
+}
+.topbeggb {
+  height: 45px;
+  margin: 12px 0px;
+  background-color: #B5DAF4;
+}
+.topbeggc {
+  height: 35px;
+  width: 172px;
+  margin: 10px auto 0px auto;
+  background-color: #FFF;
+}
+.smallblockb {
+  background-color: #2A3C4E;
+  height: 45px;
+}
+.boxb {
+  box-shadow: 10px 10px 5px #888888;
+  background-color: #217FCB;
+  margin: 0px 15px 25px 15px;
+  height: 135px;
+}
+.boxb:hover {
+  box-shadow: 0px 0px 0px #888888;
+}
+.nestb  {
+  background-color: #2A3C4E;
+  padding: 25px;
+  margin: 0px 0px 40px 0px;
+}
+.nestbegg  {
+  background-color: #828F9D;
+  height: 375px;
+  text-shadow: 1px 2px #333;
+}
+.wrapb {
+  padding: 45px 25px 40px 25px;
+}
+.divbig {
+  background-color: #707D7E;
+  height: 275px;
+  margin: 0px 0px 44px 0px;
+}
+.divsm {
+  background-color: #2A3C4E;
+  height: 24px;
+  margin: 35px 0px;
+}
+.divmed {
+  background-color: #707D7E;
+  height: 110px;
+}
+.footwrapb {
+  background-color: #000;
+  padding: 13px;
+}
+.footeggb {
+  background-color: #707D7E;
+  height: 45px;
+}
+.smallblockbt {
+  background-color: #2A3C4E;
+  height: 45px;
+  margin: 0px 0px 34px 0px;
+}
